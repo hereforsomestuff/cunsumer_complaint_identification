@@ -44,3 +44,11 @@ Methodology: The project will use natural language processing (NLP) techniques t
 Results: The results of the project will be a machine learning model that can accurately identify and categorize consumer complaints. The model will be tested on new, unseen data to ensure that it generalizes well to new data.
 
 Conclusion: This project will provide valuable insights into the most common issues and concerns of consumers, and will help companies improve their products and services and increase customer satisfaction. The results of this project will also inform future business decisions and product development, and will help companies better understand and respond to their customers' needs.
+
+References:
+
+[Consumer Complaint Classification by Aman Kharwal](https://thecleverprogrammer.com/2022/11/28/consumer-complaint-classification-with-machine-learning/)
+
+[Complaints classification by Vikram Nayyar](https://www.kaggle.com/code/vikram92/multiclass-complaints-classification-using-bi-lstm)
+
+[Multiclass Classification with Imbalanced Dataset](https://towardsdatascience.com/machine-learning-multiclass-classification-with-imbalanced-data-set-29f6a177c1a)
